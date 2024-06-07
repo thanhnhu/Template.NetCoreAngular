@@ -23,16 +23,16 @@ This is just the version used by the template, if you need to use a newer or old
 ### Usage
 
 1. Clone this repository
-2. To allow the api to be created you will need to install the template using GIT BASH:
+2. To allow the api to be created you will need to install the template using GIT BASH from where you cloned the repository:
 
 ```
 bash template.sh -i {{Path_where_you_cloned_the_repository}}
 ```
 
-- Example:
+- Example: run GIT BASH from /D/Working/Projects/Template.NetCoreAngular
 
 ```
-bash template.sh -i /D/Working/Projects/Template.NetCoreAngular
+bash template.sh -i ./
 ```
 
 3. To check that the template has been installed successfully:

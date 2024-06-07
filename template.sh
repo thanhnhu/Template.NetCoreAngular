@@ -17,7 +17,7 @@ done
 
 if [ "$1" == "-i" ]; then
 	#echo $sourcePath
-	dotnet new -i "$outputPath/backend"
+	dotnet new -i "$sourcePath/backend"
 	#dotnet new -l
 fi
 
