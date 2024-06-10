@@ -1,9 +1,5 @@
 ﻿# template-netcore-angular
 
-<p align="center">
-  <img src="images/logo.jpg" alt="template-netcore-angular logo" width="400"/>
-</p>
-
 A .NET/.NET Core template to use Onion Architecture and DDD (Domain Driven Design) with CQRS and ES with a simple example on how to use all this architecture together from the Controller until the Repository class using Domain objects and different patterns.
 
 An Angular 16 template with simple CRUD.
@@ -62,7 +58,7 @@ bash template.sh -g -n sample -o /D/Working/Projects/Template.NetCoreAngular/sam
 ```
 
 - This will create the folder containing a solution and project folder.
-  ![](images/installation.jpg)
+  ![](backend/images/installation.jpg)
 
 And you are ready to go, you can use Visual Studio, Visual Studio Code or any other IDE to proceed with your coding.
 
